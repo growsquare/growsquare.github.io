@@ -1,0 +1,20 @@
+<svg width="1000.0000000000001" height="1000.0000000000001" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+ </g>
+ <g>
+  <title>app window</title>
+  <rect fill="#f0f0f0" stroke-width="43" stroke-dasharray="null" stroke-linejoin="round" x="100" y="155.24443" width="800" height="450" id="svg_2" stroke="#004060"/>
+  <ellipse fill="#004060" stroke="#004060" stroke-width="43" stroke-dasharray="null" stroke-linejoin="round" cx="347.54209" cy="817.79463" id="svg_3" rx="34" ry="34"/>
+  <ellipse fill="#004060" stroke="#004060" stroke-width="43" stroke-dasharray="null" stroke-linejoin="round" cx="496.633" cy="817.7946" rx="34" ry="34" id="svg_5"/>
+  <ellipse fill="#004060" stroke="#004060" stroke-width="43" stroke-dasharray="null" stroke-linejoin="round" cx="647.54209" cy="817.79461" rx="34" ry="34" id="svg_6"/>
+ </g>
+ <g display="inline">
+  <title>console</title>
+  <rect fill="#f0f0f0" stroke="#004060" stroke-width="43" stroke-dasharray="null" stroke-linejoin="round" x="145.61362" y="237.64306" width="92.72727" height="92.72727" transform="rotate(45 191.97724914550778,284.0072021484375) " id="svg_7"/>
+  <rect fill="#00007f" stroke="#004060" stroke-width="43" stroke-dasharray="null" stroke-linejoin="round" x="307.43181" y="348.55216" width="87.27273" height="1.81818" id="svg_8"/>
+  <rect fill="#f0f0f0" stroke-width="0" stroke-dasharray="null" stroke-linejoin="round" x="121.97725" y="179.46127" width="69.09091" height="270.9091" id="svg_10" stroke="#f0f0f0"/>
+ </g>
+</svg>

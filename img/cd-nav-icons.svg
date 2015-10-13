@@ -1,0 +1,39 @@
+<svg width="200" height="40" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" d="m33,9l0,22l-26,0l0,-22l26,0m2,-2l-30,0l0,26l30,0l0,-26l0,0z" fill="#f0f0f0"/>
+  <path id="svg_4" d="m57,17l-3,8l8,-3.1l3.1,-8l-8.1,3.1z" fill="#4485f5"/>
+  <g id="svg_5">
+   <g id="svg_6">
+    <path id="svg_7" d="m113,8l0,17l-20,0l-0.7,0l-0.5,0.4l-5.8,4.5l0,-2.9l0,-19l27,0m2,-2l-31,0l0,21l0,7l9,-7l22,0l0,-21l0,0z" fill="#f0f0f0"/>
+   </g>
+  </g>
+  <path id="svg_10" d="m153,10l0,21l-26,0l0,-21l26,0m2,-2l-30,0l0,25l30,0l0,-25l0,0z" fill="#f0f0f0"/>
+  <rect id="svg_11" height="4.9" width="3" fill="#f0f0f0" y="5" x="131"/>
+  <rect id="svg_12" height="4.9" width="3" fill="#f0f0f0" y="5" x="146"/>
+  <g id="svg_15">
+   <rect id="svg_16" height="9" width="2" fill="#4485f5" y="18" x="179"/>
+  </g>
+  <path id="svg_19" d="m192.10001,9l0,22l-24,0l0,-22l24,0m2,-2l-28,0l0,26l28,0l0,-26l0,0z" fill="#f0f0f0"/>
+  <circle id="svg_20" r="13.5" cy="19.5" cx="59.5" stroke-miterlimit="10" stroke-width="2" stroke="#f0f0f0" fill="none"/>
+  <polygon id="svg_21" points="147.38348318636417,15.91651414334774 145.9834892898798,14.51651357114315 138.183486238122,22.316513761878014 134.38348318636417,18.516514524817467 132.9834892898798,19.91651414334774 138.183486238122,25.11651299893856 138.183486238122,25.11651299893856 138.183486238122,25.11651299893856 " fill="#4485f5"/>
+ </g>
+ <g display="inline">
+  <title>Layer 2</title>
+  <g stroke="null" id="svg_32">
+   <path stroke="#4485f5" id="svg_29" d="m175.40433,21.30985l4.84181,6.40851l4.74501,-6.46677l-4.74501,-6.46677l-4.84181,6.52503z" fill="#4485f5"/>
+   <path stroke="#4485f5" id="svg_31" d="m175.50142,20.55597c0,-3.55276 2.1425,-6.43051 4.78761,-6.43051c2.64505,0 4.78758,2.87775 4.78758,6.43051c0,3.55277 -2.14256,-2.27746 -4.78764,-2.27746c-2.64507,0 -4.78755,5.83023 -4.78755,2.27746z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#4485f5"/>
+  </g>
+  <g id="svg_40">
+   <g id="svg_36">
+    <path id="svg_33" d="m16.94954,17.59174l-3,8l8,-3.1l3.1,-8l-8.1,3.1z" fill="#4485f5"/>
+    <path transform="rotate(-90 19.449539184570316,20.09174346923828) " id="svg_35" d="m16.89954,17.64175l-3,8l8,-3.1l3.10001,-8l-8.10001,3.1z" fill="#4485f5"/>
+   </g>
+   <g transform="rotate(45 19.44953918457032,20.09174346923828) " id="svg_37">
+    <path id="svg_38" d="m16.92454,17.61675l-3,8l8,-3.1l3.1,-8l-8.1,3.1z" fill="#4485f5"/>
+    <path id="svg_39" transform="rotate(-90 19.42453765869141,20.116744995117188) " d="m16.87453,17.66675l-3,8l8,-3.1l3.10001,-8l-8.10001,3.1z" fill="#4485f5"/>
+   </g>
+  </g>
+  <ellipse ry="5.13761" rx="5.13761" id="svg_41" cy="15.9633" cx="99.44954" stroke-linecap="null" stroke-dasharray="null" stroke-width="null" fill="#4485f5"/>
+ </g>
+</svg>
